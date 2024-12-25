@@ -4,7 +4,7 @@ const experiences = [
   {
     company: "Deloitte",
     position: "Software Engineer",
-    period: "2022 - Present",
+    period: "2023 - Present",
     description: "Developing cloud-native applications and implementing DevOps practices for enterprise clients."
   },
   {
