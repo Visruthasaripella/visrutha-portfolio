@@ -50,6 +50,8 @@ const Skills = () => {
             <SiGradle title="Gradle" />
             <SiJenkins title="Jenkins" />
             <SiBamboo title="Bamboo" />
+          </div>
+        </div>
 
         {/* AI & ML */}
             <div className="skills-box">
@@ -60,7 +62,6 @@ const Skills = () => {
                 <SiTensorflow title="PPO" /> {/* Representing with TensorFlow for PPO */}
                 <FaPython title="PyTorch" /> {/* Representing PyTorch */}
                 <SiOpenai title="OpenAI Gym" /> {/* Representing OpenAI Gym */}
-
           </div>
         </div>
       </div>
