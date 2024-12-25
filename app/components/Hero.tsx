@@ -1,5 +1,4 @@
 import Image from 'next/image'
-import { Download } from 'lucide-react'
 export default function Hero() {
   return (
     <section className="min-h-screen flex items-center justify-center bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 text-white">

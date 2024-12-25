@@ -1,6 +1,6 @@
 import React from "react";
 import { FaReact, FaHtml5, FaCss3Alt, FaNodeJs, FaAws, FaDatabase, FaDocker } from "react-icons/fa";
-import { SiJavascript, SiRedux, SiSpringboot, SiMongodb, SiPostman, SiGit, SiKubernetes, SiTensorflow, SiPytorch, SiAngular, SiJquery, SiAstro, SiTailwindcss, SiTypescript, SiExpress, SiGradle, SiBitbucket, SiJenkins, SiBamboo, SiPostgresql } from "react-icons/si";
+import {SiSpringboot, SiMongodb, SiPostman, SiGit, SiKubernetes, SiAngular, SiJquery, SiAstro, SiTailwindcss, SiTypescript, SiExpress, SiGradle, SiBitbucket, SiJenkins, SiBamboo, SiPostgresql } from "react-icons/si";
 import "../Skills.css"; // Import a CSS file for styling
 
 const Skills = () => {

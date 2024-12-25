@@ -8,13 +8,12 @@ export default function About() {
         <div className="flex flex-col md:flex-row items-center justify-between">
           <div className="md:w-1/2 mb-8 md:mb-0">
             <p className="text-lg mb-4">
-              I'm a passionate full-stack developer and cloud enthusiast with a knack for creating innovative solutions. 
+              Me being a passionate full-stack developer and cloud enthusiast with a knack for creating innovative solutions.
               With a strong foundation in computer science and years of hands-on experience, I strive to build scalable 
               and efficient applications that make a difference.
             </p>
             <p className="text-lg">
-              My journey in tech has been driven by curiosity and a desire to continuously learn and grow. 
-              I'm always excited to take on new challenges and collaborate on projects that push the boundaries of what's possible.
+              My journey in tech has been driven by curiosity and a desire to continuously learn and grow who is always excited to take on new challenges and collaborate on projects that push the boundaries of what is possible.
             </p>
           </div>
           <div className="md:w-1/2 grid grid-cols-3 gap-4">
