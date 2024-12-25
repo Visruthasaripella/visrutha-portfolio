@@ -15,7 +15,7 @@ const projects = [
     description: "Automated deployment and orchestration solution",
     image: "/cloud-bookstore.jpeg",
     technologies: ["Docker", "Kubernetes", "Jenkins", "AWS"],
-    github: "https://github.com/visruta/cloud-deployment",
+    github: "https://github.com/Visruthasaripella/Cloud-Computing",
     live: null
   },
   {
@@ -24,14 +24,14 @@ const projects = [
     image: "/web-bookstore.png",
     technologies: ["React", "Express", "PostgreSQL", "Redis"],
     github: "https://github.com/visruta/bookstore-solution",
-    live: "https://bookstore-solution.com"
+    live: "https://github.com/Visruthasaripella/webapp"
   },
   {
     title: "DRL-Based Intrusion Response System",
     description: "Deep Reinforcement Learning for network security",
     image: "/intrution.png",
     technologies: ["Python", "TensorFlow", "Scikit-learn"],
-    github: "https://github.com/visruta/drl-irs",
+    github: "https://github.com/Visruthasaripella/NS-Deep-ReinfoNS-DRL-based-IRS-",
     live: null
   }
 ]
