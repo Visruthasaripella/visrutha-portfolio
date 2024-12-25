@@ -79,10 +79,6 @@ export default function Contact() {
               <a href="mailto:visrutasaripella@gmail.com" className="hover:text-indigo-600 dark:hover:text-indigo-400">visrutasaripella@gmail.com</a>
             </div>
             <div className="flex items-center">
-              <Phone className="w-6 h-6 mr-2 text-indigo-600 dark:text-indigo-400" />
-              <a href="tel:+12149407031" className="hover:text-indigo-600 dark:hover:text-indigo-400">+1 (214) 940-7031</a>
-            </div>
-            <div className="flex items-center">
               <Linkedin className="w-6 h-6 mr-2 text-indigo-600 dark:text-indigo-400" />
               <a href="https://www.linkedin.com/in/visruta-saripella/" target="_blank" rel="noopener noreferrer" className="hover:text-indigo-600 dark:hover:text-indigo-400">LinkedIn Profile</a>
             </div>
