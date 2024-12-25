@@ -2,22 +2,28 @@ import { Briefcase } from 'lucide-react'
 
 const experiences = [
   {
-    company: "Deloitte",
-    position: "Software Engineer",
-    period: "2023 - Present",
-    description: "Developing cloud-native applications and implementing DevOps practices for enterprise clients."
+    company: "Reality AI",
+    position: "AI Software Developer",
+    period: "Present",
+    description: "Develop and optimize AI models, integrate machine learning solutions, and support real-time data processing for innovative applications."
   },
   {
     company: "Virginia Tech",
-    position: "Graduate Research Assistant",
-    period: "2020 - 2022",
-    description: "Conducted research on AI-driven cybersecurity solutions and assisted in teaching advanced programming courses."
+    position: "AWS Admin",
+    period: "2023 - 2024",
+    description: "Managed cloud infrastructure, optimized costs, and ensured security compliance.."
+  },
+  {
+    company: "Deloitte",
+    position: "Software Developer intern",
+    period: "June 2024 - August 2024",
+    description: "Built scalable backend services, optimized deployment pipelines, and enhanced user interfaces.."
   },
   {
     company: "Micron Technology",
-    position: "Software Development Intern",
-    period: "Summer 2021",
-    description: "Contributed to the development of internal tools for improving semiconductor manufacturing processes."
+    position: "Software Engineer",
+    period: "July 2022 - July 2023",
+    description: "Streamlined cloud operations, automated tasks, and optimized deployments using AWS and Kubernetes.."
   }
 ]
 

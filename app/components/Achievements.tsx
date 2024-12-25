@@ -3,7 +3,7 @@ import { Award, Medal, Trophy } from 'lucide-react'
 const achievements = [
   {
     title: "Swimming Gold Medals",
-    description: "Multiple gold medals in national swimming competitions",
+    description: "Two time consecutive gold medalist in national swimming competition",
     icon: <Medal className="w-12 h-12 text-yellow-400" />
   },
   {
@@ -13,6 +13,11 @@ const achievements = [
   },
   {
     title: "AWS Certified Solutions Architect",
+    description: "Professional certification in cloud architecture",
+    icon: <Award className="w-12 h-12 text-blue-500" />
+  },
+  {
+    title: "AWS Certified Developer Architect",
     description: "Professional certification in cloud architecture",
     icon: <Award className="w-12 h-12 text-blue-500" />
   }

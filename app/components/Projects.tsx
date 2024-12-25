@@ -7,7 +7,7 @@ const projects = [
     description: "AI-powered event management platform",
     image: "/hokie-event-sphere.png",
     technologies: ["React", "Node.js", "MongoDB", "AWS"],
-    github: "https://github.com/visruta/hokie-event-sphere",
+    github: "https://github.com/Visruthasaripella/Hokie-event-sphere",
     live: "https://hokie-event-sphere.vercel.app/"
   },
   {
@@ -23,8 +23,8 @@ const projects = [
     description: "Integrated web solution for bookstore operations",
     image: "/web-bookstore.png",
     technologies: ["React", "Express", "PostgreSQL", "Redis"],
-    github: "https://github.com/visruta/bookstore-solution",
-    live: "https://github.com/Visruthasaripella/webapp"
+    github: "https://github.com/Visruthasaripella/webapp",
+    live: null
   },
   {
     title: "DRL-Based Intrusion Response System",

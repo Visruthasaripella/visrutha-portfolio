@@ -76,19 +76,19 @@ export default function Contact() {
           <div className="md:w-1/2 space-y-4">
             <div className="flex items-center">
               <Mail className="w-6 h-6 mr-2 text-indigo-600 dark:text-indigo-400" />
-              <a href="mailto:visruta@example.com" className="hover:text-indigo-600 dark:hover:text-indigo-400">visruta@example.com</a>
+              <a href="mailto:visrutasaripella@gmail.com" className="hover:text-indigo-600 dark:hover:text-indigo-400">visrutasaripella@gmail.com</a>
             </div>
             <div className="flex items-center">
               <Phone className="w-6 h-6 mr-2 text-indigo-600 dark:text-indigo-400" />
-              <a href="tel:+11234567890" className="hover:text-indigo-600 dark:hover:text-indigo-400">+1 (123) 456-7890</a>
+              <a href="tel:+12149407031" className="hover:text-indigo-600 dark:hover:text-indigo-400">+1 (214) 940-7031</a>
             </div>
             <div className="flex items-center">
               <Linkedin className="w-6 h-6 mr-2 text-indigo-600 dark:text-indigo-400" />
-              <a href="https://www.linkedin.com/in/visruta" target="_blank" rel="noopener noreferrer" className="hover:text-indigo-600 dark:hover:text-indigo-400">LinkedIn Profile</a>
+              <a href="https://www.linkedin.com/in/visruta-saripella/" target="_blank" rel="noopener noreferrer" className="hover:text-indigo-600 dark:hover:text-indigo-400">LinkedIn Profile</a>
             </div>
             <div className="flex items-center">
               <Github className="w-6 h-6 mr-2 text-indigo-600 dark:text-indigo-400" />
-              <a href="https://github.com/visruta" target="_blank" rel="noopener noreferrer" className="hover:text-indigo-600 dark:hover:text-indigo-400">GitHub Profile</a>
+              <a href="https://github.com/Visruthasaripella?tab=repositories" target="_blank" rel="noopener noreferrer" className="hover:text-indigo-600 dark:hover:text-indigo-400">GitHub Profile</a>
             </div>
           </div>
         </div>
