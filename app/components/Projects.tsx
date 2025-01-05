@@ -11,11 +11,19 @@ const projects = [
     live: "https://hokie-event-sphere.vercel.app/"
   },
   {
+    title: "Ducky: AI-Powered Coding Assistant",
+    description: "An AI-powered coding assistant leveraging LLMs to enhance productivity and streamline debugging workflows.",
+    image: "/ducky.png",
+    technologies: ["Python", "NLP Pipelines", "Pytorch", "LLM", "Tensorflow","Jupyter notebook"],
+    github: "https://github.com/Visruthasaripella/Data-Driven-intelligence-with-AI-ML",
+    live: null
+  },
+  {
     title: "Cloud-based Web App Deployment",
     description: "Automated deployment and orchestration solution",
     image: "/cloud-bookstore.jpeg",
     technologies: ["Docker", "Kubernetes", "Jenkins", "AWS"],
-    github: "https://github.com/Visruthasaripella/Cloud-Computing",
+    github: "https://github.com/Visruthasaripella/Dynamic-Cloud-Solutions-and-Engineering",
     live: null
   },
   {
@@ -23,7 +31,7 @@ const projects = [
     description: "Integrated web solution for bookstore operations",
     image: "/web-bookstore.png",
     technologies: ["React", "Express", "PostgreSQL", "Redis"],
-    github: "https://github.com/Visruthasaripella/webapp",
+    github: "https://github.com/Visruthasaripella/Modular-web-ecosystem",
     live: null
   },
   {
@@ -31,7 +39,7 @@ const projects = [
     description: "Deep Reinforcement Learning for network security",
     image: "/intrution.png",
     technologies: ["Python", "TensorFlow", "Scikit-learn"],
-    github: "https://github.com/Visruthasaripella/NS-Deep-ReinfoNS-DRL-based-IRS-",
+    github: "https://github.com/Visruthasaripella/Deep-Reinfo-DRL-based-IRS-",
     live: null
   }
 ]
