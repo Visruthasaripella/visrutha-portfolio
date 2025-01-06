@@ -1,7 +1,7 @@
 import Image from 'next/image'
 export default function Hero2() {
     return (
-        <section className="min-h-screen flex items-center justify-center bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 text-white">
+        <section className="min-h-screen flex items-center justify-center bg-white text-black">
             <div className="container mx-auto px-6 py-24 text-center">
                 <Image
                     src="/Logo.png"
