@@ -8,10 +8,13 @@ import Achievements from './components/Achievements'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
 import Hero2 from "@/app/components/Hero2";
+import { Analytics } from "@vercel/analytics/react"
+
 
 export default function Home() {
   return (
     <main className="min-h-screen">
+        <Analytics/>
       <Header />
       <Hero />
       <Hero2 />
