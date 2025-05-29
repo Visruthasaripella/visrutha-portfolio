@@ -2,28 +2,31 @@ import { Briefcase } from 'lucide-react'
 
 const experiences = [
   {
-    company: "Reality AI",
-    position: "AI Software Developer",
-    period: "Present",
-    description: "Develop and optimize AI models, integrate machine learning solutions, and support real-time data processing for innovative applications."
+    company: "Virginia Tech",
+    position: "Software Developer",
+    period: "February 2024 – Present",
+    description: `Developing a production-grade AI assistant using LLMs and RAG for real-time, personalized student guidance. 
+Implemented real-time status tracking using Angular, Spring Boot, and MongoDB for dynamic workflows. 
+Deployed scalable, highly available solutions on AWS with Docker/Kubernetes, reducing response time to sub-150ms and increasing student engagement by 40%.`
   },
   {
     company: "Virginia Tech",
-    position: "AWS Admin",
-    period: "2023 - 2024",
-    description: "Managed cloud infrastructure, optimized costs, and ensured security compliance.."
+    position: "Research Assistant",
+    period: "September 2023 – December 2024",
+    description: `Architected a Kafka-based event streaming pipeline processing 200K+ traffic events/min. 
+Designed fault-tolerant Java microservices with circuit-breaking patterns, achieving 99.95% uptime. 
+Improved Spark-based data processing latency from 12s to 300ms. 
+Unified 7 transportation APIs via a GraphQL federation layer, reducing integration issues by 87%.`
   },
   {
-    company: "Deloitte",
-    position: "Software Developer intern",
-    period: "June 2024 - August 2024",
-    description: "Built scalable backend services, optimized deployment pipelines, and enhanced user interfaces.."
-  },
-  {
-    company: "Micron Technology",
+    company: "LTIMindtree",
     position: "Software Engineer",
-    period: "July 2022 - July 2023",
-    description: "Streamlined cloud operations, automated tasks, and optimized deployments using AWS and Kubernetes.."
+    period: "May 2021 – July 2023",
+    description: `Built scalable microservices handling 2M+ daily requests with optimized performance via Oracle/MySQL tuning. 
+Led development of Extended Care Management and CSOS validation systems, contributing over $1M in revenue. 
+Developed React-Redux dashboards in TypeScript, improving user engagement by 40%. 
+Implemented CI/CD with AWS, Docker, and Kubernetes for zero-downtime deployments and 70% faster releases. 
+Enhanced observability using ELK stack.`
   }
 ]
 
