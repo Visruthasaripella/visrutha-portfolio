@@ -14,7 +14,7 @@ const experiences = [
     description: "Designed a high-throughput event streaming system and resilient services for traffic data. Improved data processing speed and unified multiple data sources to enhance reliability and access."
   },
   {
-    company: "LTIMindtree",
+    company: "Corp Team Solutions - LTIMindtree",
     position: "Software Engineer",
     period: "May 2021 – July 2023",
     description: "Led development of large-scale systems supporting millions of daily requests. Delivered impactful business solutions, improved system performance, and reduced release times through automation."
