@@ -25,7 +25,7 @@ export default function Header() {
           <a href="#experience" className="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors duration-300">Experience</a>
           <a href="#contact" className="hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors duration-300">Contact</a>
           <a
-            href="/visruta saripella DS resume.pdf"
+            href="/visruta_saripella.pdf"
             download
             className="bg-indigo-600 hover:bg-indigo-700 text-white px-4 py-2 rounded-full flex items-center transition duration-300"
           >
